@@ -1,4 +1,4 @@
-module github.com/z184924/plugin-hls
+module github.com/a1226202820/myhls
 
 go 1.13
 
